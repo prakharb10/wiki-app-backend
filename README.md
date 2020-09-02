@@ -1,6 +1,6 @@
 # wiki-app-backend
 
-A Flask API to fetch summary from Wikipedia on input text. The app for the backend can be found [here](https://github.com/prakharb10/wiki-app).
+A Flask REST API to fetch summary from Wikipedia on input text. The app for the backend can be found [here](https://github.com/prakharb10/wiki-app).
 
 ## Usage
 
